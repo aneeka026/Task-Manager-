@@ -1,5 +1,5 @@
 # Task-Manager Web App
-This is a task manager application built using React. It allows users to add, delete, edit, and filter tasks. The app also saves tasks to localStorage, ensuring that tasks persist even after the browser is refreshed.
+This is a task manager application built using JavaScript. It allows users to add, delete, edit, and filter tasks. The app also saves tasks to localStorage, ensuring that tasks persist even after the browser is refreshed.
 
 # Features
 A responsive web-based task manager using HTML, CSS, and Vanilla
